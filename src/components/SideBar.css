@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+ul {
+
+    padding-top: 20px;
+    list-style-type: none;
+    font-weight: 200;
+}
+
+.logo {
+
+    font-size: xx-large;
+    font-weight: bold;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.help {
+    padding-top: 170px;
+}
